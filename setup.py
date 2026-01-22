@@ -10,10 +10,7 @@ setup(
     long_description_content_type='text/markdown',
     url='https://github.com/AlanBeem/TradingDeque_2/tree/main',
     packages=find_packages(exclude=['tests', 'docs']), # Automatically finds all packages
-    install_requires=[
-        'dependency1>=1.0.0',
-        'dependency2',
-    ],
+    install_requires=[],
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
