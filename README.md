@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlanBeem/AD325_Project1/blob/main/main.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlanBeem/TradingDeque_2/blob/main/main.ipynb)
 
 ## Deque Buy and Sell Methods in `TradingBot`s controlled by strings
 
