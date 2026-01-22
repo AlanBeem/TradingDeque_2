@@ -17,7 +17,7 @@ Refactor due: $01/21/2026$
 
 ### **Description**
 
-This is a project examining the deque data structure, and writing algorithms on it. The TradingBot class contains buy and sell behaviors that utilize deque operations, and when applied in a Cartesian product of buy methods x sell methods, over a sequence of trades (the same for each TradingBot), result in a spread of profit and wall time, both of which are described in [main.ipynb](https://github.com/AlanBeem/AD325_Project1/blob/main/main.ipynb).
+This is a project examining the deque data structure, and writing algorithms on it. The TradingBot class contains buy and sell behaviors that utilize deque operations, and when applied in a Cartesian product of buy methods x sell methods, over a sequence of trades (the same for each TradingBot), result in a spread of profit and wall time, both of which are described in [main.ipynb](https://github.com/AlanBeem/AD325_Project1/blob/main/main.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AlanBeem/AD325_Project1/blob/main/main.ipynb).
 
 ---
 
