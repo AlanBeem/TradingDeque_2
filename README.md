@@ -11,6 +11,7 @@ Refactor due: $01/21/2026$
 |Refactors|
 |Profit for buy methods x sell methods|
 |UML Class Diagram|
+|Re. Obfuscation|
 
 ---
 
@@ -319,3 +320,11 @@ print(
 ### **UML Class Diagram**
 
 ![](https://github.com/AlanBeem/AD325_Project1/blob/main/diagrams/Beem_Project1_Class_Diagram_Final_10_21_2024.png)
+
+---
+
+### **Regarding Obfuscation**
+
+This repository is based on a project for a class that required the repository be private for grading- I don't know why, but I've made some efforts to respect that by compiling code for modules outside the refactor for the present project.
+
+
